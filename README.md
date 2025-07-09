@@ -20,16 +20,10 @@ Proyek ini dilakukan untuk untuk mengidentifikasi klaster tiap provinsi berdasar
 ![Visualisasi Kluster](img/Result_K-Means.png)
 
 ## Hasil
-=== Centroid Tiap Klaster (dalam skala asli) ===
-   Pengeluaran_Perkapita_Sayur_Perprovinsi        Bansos  Garis_Kemiskinan  \
-0                             15362.995741  1.110943e+06     502029.046944   
-1                             11127.556667  2.097355e+07     471984.158333   
-
-   Cluster  
-0        0  
-1        1  
+![Centroid](img/Result_Centroid.png)
 
 Berdasarkan hasil proses klastering menggunakan metode K-Means dengan jumlah klaster k = 2, diperoleh dua kelompok utama provinsi yang memiliki karakteristik berbeda berdasarkan variabel: Pengeluaran Per Kapita Sayur per Provinsi, Jumlah Bantuan Sosial (Bansos), dan Garis Kemiskinan. Nilai centroid masing-masing klaster menunjukkan profil khas yang dapat dijadikan dasar interpretasi sebagai berikut:
+
 **Klaster 0 : Wilayah berkembang dan daya beli tinggi**
 - Pengeluaran Sayur per Kapita: 15.362,99 (tertinggi)
 - Bantuan Sosial (Bansos): 1.110.943 (terendah)
