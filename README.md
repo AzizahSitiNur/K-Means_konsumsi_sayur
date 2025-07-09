@@ -1,4 +1,3 @@
-# K-Means_konsumsi_sayur
 # Analisis Data Konsumsi Sayur dan Pengeluaran Perkapita Menggunakan Clustering
 
 Proyek ini dilakukan untuk untuk mengidentifikasi klaster tiap provinsi berdasarkan faktor-faktor yang memepengaruhi pengeluaran konsumsi sayuran di Indonesia agar dapat memberikan rekomendasi strategi ketahanan pangan yang berguna bagi pihak terkait dalam merencanakan kebijakan distribusi dan pengembangan sistem budidaya sayuran yang lebih efisien dan berkelanjutan. Analisis dilakukan dengan pendekatan unsupervised learning menggunakan algoritma **K-Means Clustering**.
