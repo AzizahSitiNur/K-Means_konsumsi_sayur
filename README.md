@@ -17,7 +17,7 @@ Proyek ini dilakukan untuk untuk mengidentifikasi klaster tiap provinsi berdasar
 5. **Evaluasi**: Penggunaan Sillhouette Score untuk menentukan jumlah cluster optimal
 
 ## Visualisasi
-img/Result_K-Means.png
+![Visualisasi Kluster](img/Result_K-Means.png)
 
 ## Hasil
 === Centroid Tiap Klaster (dalam skala asli) ===
