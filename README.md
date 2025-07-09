@@ -19,12 +19,12 @@ Proyek ini dilakukan untuk untuk mengidentifikasi klaster tiap provinsi berdasar
 ## Visualisasi
 ![Visualisasi Kluster](img/Result_K-Means.png)
 
-## Hasil
-![Centroid](img/Result_Centroid.png)
-
 Keterangan:
 - Ungu = kluster 0
 - Kuning = kluster 1
+
+## Hasil
+![Centroid](img/Result_Centroid.png)
 
 Berdasarkan hasil proses klastering menggunakan metode K-Means dengan jumlah klaster k = 2, diperoleh dua kelompok utama provinsi yang memiliki karakteristik berbeda berdasarkan variabel: Pengeluaran Per Kapita Sayur per Provinsi, Jumlah Bantuan Sosial (Bansos), dan Garis Kemiskinan. Nilai centroid masing-masing klaster menunjukkan profil khas yang dapat dijadikan dasar interpretasi sebagai berikut:
 
